@@ -31,6 +31,13 @@ for(declaration : expression) {
    // Statements
 }
 
+ The While-loops 
+ 
+ In most computer programming languages, a while loop is a control flow statement 
+ that allows code to be executed repeatedly based on a given Boolean condition. The 
+ while loop can be thought of as a repeating if statement.
+ 
+
 The switch stement
 
 "Unlike if-then and if-then-else statements, the switch statement can have a number of possible execution paths. A switch works with the byte, short, char, and int primitive data types. It also works with enumerated types (discussed in Enum Types), the String class, and a few special classes that wrap certain primitive types: Character, Byte, Short, and Integer (discussed in Numbers and Strings).
