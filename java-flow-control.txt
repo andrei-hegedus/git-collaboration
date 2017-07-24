@@ -6,3 +6,15 @@ In Java it can be implemented with the following mechanisms:
  - for-loops
  - while-loops
  - switch statements
+
+The FOR statement.
+
+it looks like this:
+
+for(<initialization>; <boolean expression>; <update>) {
+   // Statements
+}
+
+for(declaration : expression) {
+   // Statements
+}
