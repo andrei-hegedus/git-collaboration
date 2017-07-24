@@ -1,0 +1,8 @@
+Flow Control in Java
+
+Flow Control Defines the way code is executed.
+In Java it can be implemented with the following mechanisms:
+ - if statements
+ - for-loops
+ - while-loops
+ - switch statements
